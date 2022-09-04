@@ -18,7 +18,8 @@ There is a lot of features that I will try to bring to this tool, like generatio
 ### how to install
 
 ##### installation
-- No need to install, just click Code (green button in the top of this page) -> Download ZIP
+- (one time step) Install .Net Core Desktop Runtime -> https://dotnet.microsoft.com/en-us/download/dotnet/3.1
+- No need to install the UI (or newer versions), just click Code (green button in the top of this page) -> Download ZIP
 - Unzip it in any folder and you are good to go
 - Click in plaigroundr.exe
 
